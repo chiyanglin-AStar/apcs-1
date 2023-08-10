@@ -1,0 +1,67 @@
+// -------   After courses -------------------------------
+
+on-line tutorial : 
+
+basic: 
+
+1. https://www.w3schools.com/c/index.php
+
+2. https://www.w3schools.com/cpp/default.asp
+
+3. https://www.programiz.com/c-programming
+
+4. https://www.programiz.com/cpp-programming
+
+5. https://www.geeksforgeeks.org/c-programming-language/?ref=shm_outind
+
+
+mid:
+
+6. https://www.tutorialspoint.com/cplusplus/index.htm
+
+7. https://www.learncpp.com/
+
+8. https://www.javatpoint.com/cpp-tutorial
+
+9. https://www.geeksforgeeks.org/cpp-tutorial/
+
+10. https://cplusplus.com/doc/tutorial/
+
+11. https://cplusplus.com/doc/tutorial/program_structure/
+
+
+// ---------- after courses level 2 to 3 -----------------
+
+1. https://zerojudge.tw/ShowProblem?problemid=a513
+
+2. https://zerojudge.tw/ShowProblem?problemid=b415
+
+3. https://zerojudge.tw/ShowProblem?problemid=b417
+
+4. https://zerojudge.tw/ShowProblem?problemid=b418
+
+5. https://zerojudge.tw/ShowProblem?problemid=b419
+
+6. https://zerojudge.tw/ShowProblem?problemid=b422
+
+7. https://zerojudge.tw/ShowProblem?problemid=b423
+
+8. https://zerojudge.tw/ShowProblem?problemid=b424
+
+9. https://zerojudge.tw/ShowProblem?problemid=b425
+
+10. https://zerojudge.tw/ShowProblem?problemid=b426
+
+11. https://zerojudge.tw/ShowProblem?problemid=b427
+
+12. https://zerojudge.tw/ShowProblem?problemid=b428
+
+13. https://zerojudge.tw/ShowProblem?problemid=b429
+
+14. https://zerojudge.tw/ShowProblem?problemid=b430
+
+15. https://zerojudge.tw/ShowProblem?problemid=b431
+
+16. https://zerojudge.tw/ShowProblem?problemid=b432
+
+17. https://zerojudge.tw/ShowProblem?problemid=b433
